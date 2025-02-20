@@ -1,2 +1,3 @@
 # F1-Penetration-Test
-Tested local F1 educational institution for website, network, and on premises vulnerabilities for local machines. Using a phishing campaign and pretexting, gained access to many employee and administrative accounts. Using Nmap, scanned open ports and identified insecure network practices and exposed confidential company information.
+Between August 31 and September 7, 2024, a penetration test was conducted at F1 International Academy. This assessment involved public and internal reconnaissance, vulnerability scans, credential harvesting, social engineering, and on-site evaluations. The environment showed several strong security measures that successfully detected, prevented, or mitigated various attack vectors. Found 22 vulnerabilities related to administrative systems, financial systems, and employee security practices. 
+
